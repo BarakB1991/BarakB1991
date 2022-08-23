@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there! I'm Barak Barzilay.
 
-<!--
-**BarakB1991/BarakB1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__________________________________
+- I am a Full Stack Web Developer.
+- I finally found what i love to do in life, which is to code.
+- I never back down from a problem i face, although i do approach it pomodoro style :laughing:.
+- Currently looking for my next career challenge.
+- When i'm not solving problems, i'm with my wife and two beautiful boys.
 
-Here are some ideas to get you started:
+_____________________________________
+## Here are some of my projects:
+* [News Explorer (Built during my](https://github.com/BarakB1991/news-explorer-frontend)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Around-US](https://github.com/BarakB1991/react-around-api-full)
+
+## Built with these technologies that i'm familiar with:
+HTML5 | CSS3 | JS | Node.js | React.js | Git | Express | MongoDB | OOP | Express | 
+
+# And i'm now studying:
+Qwik framework | PartyTown | Vite.js
+
+____________________________________
+## You can contact me here:
+[LinkedIn](https://linkedin.com/in/Barak-Barzilay)
