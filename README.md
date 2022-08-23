@@ -1,4 +1,4 @@
-### Hi there! I'm Barak Barzilay.
+## Hi there! I'm Barak Barzilay.
 
 __________________________________
 - I am a Full Stack Web Developer.
@@ -13,10 +13,10 @@ _____________________________________
 
 * [Around-US](https://github.com/BarakB1991/react-around-api-full)
 
-## Built with these technologies that i'm familiar with:
+### Built with these technologies that i'm familiar with:
 HTML5 | CSS3 | JS | Node.js | React.js | Git | Express | MongoDB | OOP | Express | 
 
-# And i'm now studying:
+### And i'm now studying:
 Qwik framework | PartyTown | Vite.js
 
 ____________________________________
