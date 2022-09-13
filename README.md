@@ -21,4 +21,4 @@ Qwik framework | PartyTown | Vite.js
 
 ____________________________________
 ## You can contact me here:
-[LinkedIn](https://linkedin.com/in/Barak-Barzilay)
+[LinkedIn](https://linkedin.com/in/BarakBarzilay)
