@@ -9,7 +9,7 @@ __________________________________
 
 _____________________________________
 ## Here are some of my projects:
-* [News Explorer (Built during my](https://github.com/BarakB1991/news-explorer-frontend)
+* [News Explorer - Search for articles from aropund the world and save them for later](https://github.com/BarakB1991/news-explorer-frontend)
 
 * [Around-US](https://github.com/BarakB1991/react-around-api-full)
 
