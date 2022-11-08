@@ -14,7 +14,7 @@ _____________________________________
 * [Around-US](https://github.com/BarakB1991/react-around-api-full)
 
 ### Built with these technologies that i'm familiar with:
-HTML5 | CSS3 | JS | Node.js | React.js | Git | Express | MongoDB | OOP | Express | 
+HTML5 | CSS3 | JS | Node.js | React.js | Git | Express | MongoDB | OOP | Express | HarperDB | Socket.io
 
 ### And i'm now studying:
 Qwik framework | PartyTown | Vite.js
